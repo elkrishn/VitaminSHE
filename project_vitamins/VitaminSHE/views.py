@@ -21,4 +21,3 @@ def book(request):
 
 def why(request):
     return render(request, 'VitaminSHE/why.html')
-
